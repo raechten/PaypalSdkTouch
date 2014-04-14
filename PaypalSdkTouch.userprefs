@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PayPalMobileSample2/PayPalMobileSample2ViewController.cs">
+    <Files>
+      <File FileName="PaypalSdkTouch/StructsAndEnums.cs" Line="1" Column="1" />
+      <File FileName="PayPalMobileSample2/PayPalMobileSample2ViewController.cs" Line="20" Column="80" />
+      <File FileName="PaypalSdkTouch/ApiDefinition.cs" Line="75" Column="45" />
+      <File FileName="PayPalMobileSample2/FlipsideViewController.cs" Line="1" Column="1" />
+      <File FileName="PayPalMobileSample2/PayPalMobileSample2ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="PayPalMobileSample2" expanded="True">
+            <Node name="PayPalMobileSample2ViewController.cs" expanded="True" />
+          </Node>
+          <Node name="PaypalSdkTouch" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
