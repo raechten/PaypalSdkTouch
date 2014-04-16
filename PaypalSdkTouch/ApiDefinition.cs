@@ -50,6 +50,7 @@ namespace PaypalSdkTouch
 	}
 
 	[Model, BaseType (typeof (NSObject))]
+	[Protocol]
 	public partial interface PayPalFuturePaymentDelegate {
 
 		[Export ("payPalFuturePaymentDidCancel:")]
@@ -126,6 +127,7 @@ namespace PaypalSdkTouch
 	}
 
 	[Model, BaseType (typeof (NSObject))]
+	[Protocol]
 	public partial interface PayPalPaymentDelegate {
 
 		[Export ("payPalPaymentDidCancel:")]

@@ -45,10 +45,10 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Xamarin.ObjcBinding.CSharp.targets" />
   <ItemGroup>
+    <Compile Include="Partials.cs" />
     <Compile Include="libPayPalMobile.linkwith.cs">
       <DependentUpon>libPayPalMobile.a</DependentUpon>
     </Compile>
-    <Compile Include="Partials.cs" />
   </ItemGroup>
   <ItemGroup>
     <ObjcBindingNativeLibrary Include="libPayPalMobile.a" />

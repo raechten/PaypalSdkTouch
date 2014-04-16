@@ -111,13 +111,13 @@
     <BundleResource Include="Resources\ios_sample_icon%402x.png" />
   </ItemGroup>
   <ItemGroup>
+    <InterfaceDefinition Include="MainStoryboard_iPhone.storyboard" />
+    <InterfaceDefinition Include="MainStoryboard_iPad.storyboard" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\PaypalSdkTouch\PaypalSdkTouch.csproj">
       <Project>{4603716C-484B-4424-A96F-2606256D6B10}</Project>
       <Name>PaypalSdkTouch</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <InterfaceDefinition Include="MainStoryboard_iPhone.storyboard" />
-    <InterfaceDefinition Include="MainStoryboard_iPad.storyboard" />
   </ItemGroup>
 </Project>
